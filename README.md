@@ -1,6 +1,12 @@
 # Monitor
+## En la primera imagen se realizó una ejecución de 10 datos en total
+<img width="1920" height="1080" alt="Captura de pantalla (15)" src="https://github.com/user-attachments/assets/3271a75f-ac05-4687-a59b-c3c1dc6e39b6" />
 
-java
+## En la segunda imagen se realizó una ejecución de 15 datos en total
+<img width="1800" height="849" alt="Captura de pantalla (16)" src="https://github.com/user-attachments/assets/7dc4cc8e-14c6-4391-9342-6e673ae8ee7f" />
+
+# Código Java
+```java
 
 public class Main {
 
@@ -93,7 +99,7 @@ public class Main {
         Monitor monitor = new Monitor();
 
         // Ajusta 'veces' y delays segun quieras
-        int veces = 50;
+        int veces = 10;
         Thread inc = new Thread(new Incrementer(monitor, veces, 10));
         Thread dec = new Thread(new Decrementer(monitor, veces, 15));
 
