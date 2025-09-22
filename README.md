@@ -1,6 +1,6 @@
 # Monitor
 ## En la primera imagen se realizó una ejecución de 10 datos en total
-<img width="1920" height="1080" alt="Captura de pantalla (15)" src="https://github.com/user-attachments/assets/3271a75f-ac05-4687-a59b-c3c1dc6e39b6" />
+<img width="1920" height="854" alt="Captura de pantalla (15)" src="https://github.com/user-attachments/assets/3ab432ed-db35-418d-bdc6-d3ce2187926f" />
 
 ## En la segunda imagen se realizó una ejecución de 15 datos en total
 <img width="1800" height="849" alt="Captura de pantalla (16)" src="https://github.com/user-attachments/assets/7dc4cc8e-14c6-4391-9342-6e673ae8ee7f" />
